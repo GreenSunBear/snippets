@@ -1,5 +1,3 @@
-// davecap ajax forked by Philip Sole
-
 function ScrollExecute() {
 
 if(!isActive && $(document).height() - 800 < ($(document).scrollTop() + $(window).height())) {
